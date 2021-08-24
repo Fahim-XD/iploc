@@ -15,7 +15,7 @@ def logo():
  |_ _| _ \ | |  / _ \ / __|
   | ||  _/ | |_| (_) | (__ 
  |___|_|   |____\___/ \___|""") 
-Script By FahimXD
+
 def menu():
     os.system("clear")
     logo()
