@@ -10,7 +10,8 @@ $ pkg install python
 $ pkg install git  
 $ pip install requests  
 $ rm -rf iploc  
-$ git clone https://github.com/Fahim-XD/iploc.git  
+$ git clone https://github.com/Fahim-XD/iploc
+
 ```
 ## Run Script
 ```
